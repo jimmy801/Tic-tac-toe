@@ -1,0 +1,8 @@
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\bin\Debug\Tic-tac-toe.pdb
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\obj\Debug\_1043319_HW_2.Tic_Tac_Toe.resources
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\obj\Debug\_Tic_tac_toe.Properties.Resources.resources
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\obj\Debug\Tic_tac_toe.csproj.GenerateResource.Cache
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\obj\Debug\Tic-tac-toe.exe
+C:\Users\kiter\Downloads\CLASS\二年級\視窗程式設計\homework\Tic-tac-toe\obj\Debug\Tic-tac-toe.pdb
