@@ -12,4 +12,4 @@
 
 接著就可以和電腦AI玩井字遊戲了
 
-![image](https://github.com/jimmy801/Tic-tac-toe/blob/master/ScreenShot/03.jpg)
+![image](https://github.com/jimmy801/Tic-tac-toe/blob/master/ScreenShot/02.jpg)
