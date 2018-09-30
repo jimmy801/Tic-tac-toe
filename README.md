@@ -9,6 +9,7 @@ Envorionment
 ---
 
 -Win7以上
+
 -.Net Framework 4.0以上
 
 遊戲方法
