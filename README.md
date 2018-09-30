@@ -8,7 +8,8 @@ Tic-tac-toe，也就是井字遊戲，是使用`C#`寫的一個滑鼠點擊視�
 Envorionment
 ---
 
--Windows
+-Win7以上
+-.Net Framework 4.0以上
 
 遊戲方法
 ---
