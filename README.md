@@ -17,7 +17,7 @@ Envorionment
 
 ![image](https://github.com/jimmy801/Tic-tac-toe/blob/master/ScreenShot/00.jpg)
 
-2.選擇自己要O或X
+2.選擇自己要O、X或隨機選擇
 
 ![image](https://github.com/jimmy801/Tic-tac-toe/blob/master/ScreenShot/01.jpg)
 
